@@ -1,8 +1,6 @@
 <h1 align="center">E-Commerce Store 🛒</h1>
-
-![Demo App](/frontend/public/screenshot-for-readme.png)
-
-[Video Tutorial on Youtube](https://youtu.be/sX57TLIPNx8)
+https://yourkart-i8wx.onrender.com
+ ### **[Live Demo ](https://yourkart-i8wx.onrender.com/)**
 
 About This Course:
 
